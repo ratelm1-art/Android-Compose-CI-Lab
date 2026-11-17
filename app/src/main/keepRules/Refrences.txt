@@ -1,0 +1,2 @@
+For this assignment, I referenced the Android Developers codelabs provided by my professor, including the Mars Photos application examples.
+
